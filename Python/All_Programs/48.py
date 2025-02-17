@@ -1,0 +1,7 @@
+f = open("D:\TY\\second.txt","a")
+name = input('Enter your name:')
+year = int(input('Enter your year:'))
+roll_no = int(input('Enter your roll_no:'))
+age = int(input('Enter your age:'))
+f.write(f'\nName:{name},\nyear:{year},\nroll_no:{roll_no},\nage:{age}')
+f.close()
