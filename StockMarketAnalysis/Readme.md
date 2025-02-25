@@ -54,8 +54,8 @@ The dataset contains historical stock prices, including Open, High, Low, Close, 
 This project is open-source and available under the **MIT License**.
 
 ## ✨ Author
-**Sanika Chougule**  
-📌 [GitHub](https://github.com/sanikac27) | 📌 [LinkedIn](https://linkedin.com/in/sanikachougule)
+**Siddhi Pande**  
+📌 [GitHub](https://github.com/siddhipande25) | 📌 [LinkedIn](https://www.linkedin.com/in/siddhipande25)
 
 ---
 Feel free to contribute and improve this project! 🚀
